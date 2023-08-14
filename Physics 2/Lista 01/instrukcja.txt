@@ -1,0 +1,7 @@
+Aby każde zadanie zadziałało w pełni, to wszystkie załączone przeze mnie pliki muszą znajdować się w jednym (tym samym) folderze 
+
+Plik zadanie_1.m to zadanie pierwsze, korzysta on z funkcji silnia zapisanej w pliku silnia.m 
+Plik sinseries.m to zadanie drugie, on również korzysta z funkcji silnia z pliku silnia.m 
+Plik sin_series.m to zadanie trzecie, należy go wywoływać przez polecenie sin_series(x,n), gdzie x to argument funkcji sinus, a n to pożądana ilość wyrazów szeregu Taylora 
+
+Polecenie help sin_series (lub inna nazwa pliku) wyświetla komentarze nagłówkowe 
